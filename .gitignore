@@ -1,0 +1,6 @@
+glove.6B.50d.txt
+nounlist.txt
+knn.pk
+word2vec.pk
+/.idea
+/.__pycache__
